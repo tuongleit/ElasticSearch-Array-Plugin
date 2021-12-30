@@ -1,0 +1,3 @@
+org\elasticsearch\plugin\rs\ArrayFormatPlugin.class
+org\elasticsearch\plugin\rs\RestActionHandler.class
+org\elasticsearch\plugin\rs\RestResponseHandler.class

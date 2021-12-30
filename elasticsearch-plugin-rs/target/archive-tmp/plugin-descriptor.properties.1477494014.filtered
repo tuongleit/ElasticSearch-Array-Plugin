@@ -1,0 +1,6 @@
+description=${project.description}
+version=1.0-SNAPSHOT
+name=elasticsearch-plugin-rs
+classname=org.elasticsearch.plugin.rs.ArrayFormatPlugin
+java.version=17
+elasticsearch.version=7.16.2
